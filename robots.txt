@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /php-mailer/
+Disallow: /inc/
+Disallow: /old-wp-site/
